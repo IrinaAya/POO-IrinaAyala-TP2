@@ -8,4 +8,4 @@ atributos específicos y sobrescriben toString para mostrar detalladamente su de
 Toda la lógica está en ConcesionariaService,que realiza el ordenamiento y el
 filtrado.
 En esta Consesionaria, para la creacion, se uso frameworks: Spring boot.
-Proyecto hecho con Maven, API Stream y con lenguaje Java 21.
+Proyecto hecho con Maven, API Stream, Collections y con lenguaje Java 21.
