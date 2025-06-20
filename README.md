@@ -7,5 +7,5 @@ natural por marca, modelo y precio. Las subclases Auto y Moto agregan
 atributos específicos y sobrescriben toString para mostrar detalladamente su descripción.
 Toda la lógica está en ConcesionariaService,que realiza el ordenamiento y el
 filtrado.
-En esta Consesionaria, para la creacion, se uso framworks: Spring boot.
-Proyecto hecho con Maven y con el lenguaje Java 21.
+En esta Consesionaria, para la creacion, se uso frameworks: Spring boot.
+Proyecto hecho con Maven, API Stream y con lenguaje Java 21.
